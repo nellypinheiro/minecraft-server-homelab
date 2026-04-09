@@ -109,6 +109,24 @@ Este entorno demuestra habilidades en:
 
 ---
 
+## Lecciones aprendidas
+
+- Importancia de la compatibilidad entre cliente y servidor en entornos con mods
+- Gestión de errores a través de logs (debugging en Forge)
+- Impacto de la virtualización en rendimiento y recursos
+- Uso de túneles seguros frente a port forwarding tradicional
+- Necesidad de backups automáticos en servicios persistentes
+
+---
+
+## Seguridad
+
+- No se expone el servidor directamente a Internet
+- Uso de túneles seguros mediante Playit.gg
+- Acceso controlado a servicios internos mediante NAT
+
+---
+
 ## Notas
 
 Este proyecto está orientado como práctica de **homelab** y puede escalarse a entornos más complejos con mayor número de usuarios o infraestructura dedicada.
