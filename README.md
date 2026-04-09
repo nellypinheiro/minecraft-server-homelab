@@ -33,6 +33,11 @@ PC anfitrión (host)
 └── Playit.gg
 └── Acceso remoto
 ```
+---
+
+## Diagrama de arquitectura
+
+![Arquitectura](diagrams/Diagrama.png)
 
 ---
 
